@@ -1,5 +1,7 @@
-# Ignore the datasets directory
+# Ignore the datasets and models directory
 datasets/
-
-# Ignore the models directory
 models/
+
+# Ignore IntelliJ IDEA and VS Code project files
+.idea/
+.vscode/
